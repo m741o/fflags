@@ -1,4 +1,3 @@
-// Dumped at: 20 Dec 2025
 #pragma once
 
 namespace fflags {
