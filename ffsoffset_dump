@@ -2,7 +2,6 @@
 #pragma once
 
 namespace fflags {
-
     inline uintptr_t ACSUGCValidationRCCOnly = 0x67B2160;
     inline uintptr_t ACSValidateTokenWithRegex = 0x67B2140;
     inline uintptr_t ADS4948SendUniverseIdToEventStream = 0x67D4678;
