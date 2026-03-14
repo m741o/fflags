@@ -3,11 +3,11 @@
 
 ### MY LISTS:
 
-###### _guide.md_
-a guide to better your performance while using any fflag list, reccommended to use.
+#### _guide.md_
+* a guide to better your performance while using any fflag list, reccommended to use.
 
-###### _fflags_dial.json_
-this is a __universal list__, which does the following: *optimized networking, best MTU, faster rendering, culling, lower memory use, disabled compression, forced GPU, better runtime, best frametime, better render distancing, best lighting, favoring performance over quality, reduced CPU load, removed telemetry, better interpolation, better physics, better tick rate, improved sender rate, removed activation timers, enabled network ownership**
+#### _fflags_dial.json_
+* this is a __universal list__, which does the following: *optimized networking, best MTU, faster rendering, culling, lower memory use, disabled compression, forced GPU, better runtime, best frametime, better render distancing, best lighting, favoring performance over quality, reduced CPU load, removed telemetry, better interpolation, better physics, better tick rate, improved sender rate, removed activation timers, enabled network ownership**
 ```
 __KNOWN BUGS AND FIXES__
 serv hitbox pos desyncing (fix: reset every time you join a game)
@@ -16,14 +16,14 @@ players looking choppy (fix: set framebuffer to 1)
 weird render distance / black skybox side (fix: set zplane to 4000)
 ```
 
-###### _fflags_flop_physics.json_
+#### _fflags_flop_physics.json_
 abusive The Strongest Battlegrounds fflag list, not tested on others. which does the following: *removed damage on floor collision from throws*
 
-###### _illegal_fflags.txt_
-generally op fflags, just read the name to know what it does.
+#### _illegal_fflags.txt_
+* generally op fflags, just read the name to know what it does.
 
 
 ### MY OFFSETS:
 
-* ffsoffset_dump.hpp
+#### _ffsoffset_dump.hpp_
 offsets for fflags use ( I DON'T UPDATE THEM OFTEN, RELY ON imtheo.lol FOR OFFSETS RATHER THAN THIS.
