@@ -6,17 +6,20 @@
 #### _guide.md_
 * a guide to better your performance while using any fflag list, reccommended to use.
 
-#### _fflags_dial.json_
-* this is a __universal list__, which does the following: *optimized networking, best MTU, faster rendering, culling, lower memory use, disabled compression, forced GPU, better runtime, best frametime, better render distancing, best lighting, favoring performance over quality, reduced CPU load, removed telemetry, better interpolation, better physics, better tick rate, improved sender rate, removed activation timers, enabled network ownership**
+#### _dial.json & transcendant.json_
+* this is my personal TWO __universal lists__, which does the following: *optimized networking, best MTU, faster rendering, culling, lower memory use, disabled compression, forced GPU, better runtime, best frametime, better render distancing, best lighting, favoring performance over quality, reduced CPU load, removed telemetry, better interpolation, better physics, better tick rate, improved sender rate, removed activation timers, enabled network ownership**
 ```
 __KNOWN BUGS AND FIXES__
+(RECCOMMENDED TO USE transcendant.json RATHER THAN dial.json)
+
 serv hitbox pos desyncing (fix: reset every time you join a game)
 weird shadow lines on the grounds (fix: delete shadowmapbias)
 players looking choppy (fix: set framebuffer to 1)
-weird render distance / black skybox side (fix: set zplane to 4000)
+weird render distance (fix: set zplane to 4000)
+black skybox side (fix: delte zplane) -- OPTIONAL
 ```
 
-#### _fflags_flop_physics.json_
+#### _flop_physics.json_
 * abusive The Strongest Battlegrounds fflag list, not tested on others. which does the following: *removed damage on floor collision from throws*
 
 #### _illegal_fflags.txt_
