@@ -7,7 +7,10 @@
 * a guide to better your performance while using any fflag list, reccommended to use.
 
 #### __ClientAppSettings.json__
-* local & whitelisted fflags (no injector needed), add these to my other lists if lazy to set up normal local fflags 
+* local & whitelisted fflags (no injector needed), add these to my other lists if lazy to set up normal local fflags
+
+#### __mobile__
+* mobile setfflag script
 
 #### _dial.json & transcendant.json_
 * this is my personal TWO __universal lists__ (injector needed), which does the following: *optimized networking, best MTU, faster rendering, culling, lower memory use, disabled compression, forced GPU, better runtime, best frametime, better render distancing, best lighting, favoring performance over quality, reduced CPU load, removed telemetry, better interpolation, better physics, better tick rate, improved sender rate, removed activation timers, enabled network ownership**
