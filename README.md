@@ -1,5 +1,4 @@
 # __m741o's fflag archive__ 
-## _here you will find anything related to fast flags (used for roblox debugging). DISCLAIMER: NOT FOR UNEXPERIENCED/UNEDUCATED USERS._
 
 ### MY LISTS:
 
