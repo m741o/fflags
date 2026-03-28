@@ -30,9 +30,6 @@ black skybox side (fix: delte zplane) -- OPTIONAL
 #### _flop_physics.json_
 * abusive The Strongest Battlegrounds fflag list (injector needed), not tested on others. which does the following: *removed damage on floor collision from throws*
 
-#### _illegal_fflags.txt_
-* generally op fflags (injector needed), just read the name to know what it does.
-
 
 ### MY OFFSETS:
 
