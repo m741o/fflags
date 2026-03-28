@@ -5,6 +5,9 @@
 #### _guide.md_
 * a guide to better your performance while using any fflag list, reccommended to use.
 
+### _single_flags.md_
+* single use flags, can be used to make your own list
+
 #### __ClientAppSettings.json__
 * local & whitelisted fflags (no injector needed), add these to my other lists if lazy to set up normal local fflags
 
