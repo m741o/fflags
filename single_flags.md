@@ -417,3 +417,23 @@ it gives a lot of performance boost, hard to explain
 	"FStringTerrainMaterialTablePre2022": ""
 }
 ```
+
+## more caching ig
+Disk Cache
+```json
+{
+    "DFIntHttpCacheCleanDownToTotalSpaceMiB": "8192",
+    "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "10240",
+    "DFIntHttpCacheCleanMinFilesRequired": "50000",
+    "DFIntHttpCacheCleanMaxFilesToKeep": "40000"
+}
+```
+
+RAM Cache
+```json
+{
+    "DFIntMemCacheMaxCapacityMB": "256",
+    "FIntDefaultMeshCacheSizeMB": "256",
+    "FIntAnimationClipCacheBytes": "250000000"
+}
+```
