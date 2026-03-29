@@ -439,7 +439,6 @@ RAM cache (16GB OR MORE)
 ```
 
 ## hyperthreading
-hyperthreading
 ```json
 {
     "FFlagDebugCheckRenderThreading": "True",
