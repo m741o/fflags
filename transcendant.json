@@ -51,6 +51,7 @@
     "DFIntDataSenderMaxBandwidthBps": 2147483647,
     "DFIntDataSenderMaxJoinBandwidthBps": 2147483647,
     "DFIntPhysicsSenderMaxBandwidthBps": 2000000,
+    "DFIntDataSenderRate": 2147483647,
     "DFIntPhysicsSenderMaxBandwidthBpsScaling": 240,
     "DFIntBandwidthManagerApplicationDefaultBps": 1024000,
     "DFIntBandwidthManagerDataSenderMaxWorkCatchupMs": 8,
