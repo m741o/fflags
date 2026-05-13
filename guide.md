@@ -5,9 +5,9 @@ _**MUST change**_
 
 - change `DFIntCanHideGuiGroupId` to the ID of a group you're in
 
-- [calculate frametime](https://fflag-frametime-calc.netlify.app/), change them, & add `DFIntGraphicsOptimizationModeFRMFrameRateTarget` to your monitor refresh rate. after change `FIntPerformanceControlTargetFrameTimeCeilingHundredthsMs` with calculation (1000000 / refresh_rate)
+- [calculate frametime](https://fflag-frametime-calc.netlify.app/), change them, then add `DFIntGraphicsOptimizationModeFRMFrameRateTarget` & `FIntTargetRefreshRate` to your monitor refresh rate. after change `FIntPerformanceControlTargetFrameTimeCeilingHundredthsMs` with calculation (1000000 / refresh_rate)
 
-- [calculate runtime](https://configurate-roblox-runtime.vercel.app/), change them, & remove the commas.
+- [calculate runtime](https://configurate-roblox-runtime.vercel.app/), change them, & remove the commas. (outdated?)
 
 - take your internet upload speed in mbps and multiply by 125000, then change `FIntDataSenderMaxBandwidthBps` to that value
 
