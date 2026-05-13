@@ -16,6 +16,7 @@
 	"FIntFullscreenTitleBarTriggerDelayMillis": 3600000,
 	"DFIntParallelLuaMaxSingleThreadLanes": 2,
 	"DFIntPhysicsSenderMaxBandwidthBps": 2147483647,
+	"FIntRobloxGuiBlurIntensity": 0,
 	"FFlagGcInParallelWithRenderPrepare3": true,
 	"FIntPerformanceControlTargetFrameTimeCeilingHundredthsMs": 16666,
 	"FFlagPerformanceControlUsesRuntime2": true,
