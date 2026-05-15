@@ -42,7 +42,7 @@ black skybox side (fix: delete zplane) -- OPTIONAL
 
 # credits
 * @m741o
-* @baiyarin_lx (Phantom Freeze)
+* @baiyarin_lx (99chelic99)
 * @yernling (nubbie)
 * @moorcs (scroom)
 * @soulukr (soul)
