@@ -1,12 +1,12 @@
-# __m741o's fflag archive__ 
+# __m741o's fflag archive__
 
-### MY LISTS:
-
-#### _guide.md_
+## _guide.md_
 * a guide to better your performance while using any fflag list, reccommended to use.
 
-### _single_flags.md_
+## _single_flags.md_
 * single use flags, can be used to make your own list
+
+### MY LISTS:
 
 #### __ClientAppSettings.json__
 * local & whitelisted fflags (no injector needed), add these to my other lists if lazy to set up normal local fflags
@@ -26,10 +26,24 @@ black skybox side (fix: delete zplane) -- OPTIONAL
 * personal debugging fflag list ig, reccomended to use for NASA pcs lol
 
 #### _flop_physics.json_
-* abusive The Strongest Battlegrounds fflag list (injector needed), not tested on others. which does the following: *removed damage on floor collision from throws*
+* abusive The Strongest Battlegrounds fflag list (injector needed), not tested on others. which does the following: *removed/reduced damage on floor collision from throws*
 
 
 ### MY OFFSETS:
 
 #### _ffsoffset_dump.hpp_
-* offsets for fflags use (I DON'T UPDATE THEM OFTEN, RELY ON imtheo.lol FOR OFFSETS RATHER THAN THIS.)
+* offsets for fflags use (I DON'T UPDATE THEM OFTEN)
+
+
+
+
+
+
+
+# credits
+* @m741o
+* @baiyarin_lx (Phantom Freeze)
+* @yernling (nubbie)
+* @moorcs (scroom)
+* @soulukr (soul)
+* @tuuydawiz (CLI)
